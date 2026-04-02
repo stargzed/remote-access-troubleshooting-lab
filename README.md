@@ -19,5 +19,6 @@ Key Takeaways
 Firewall misconfigurations can prevent remote access
 Systematic troubleshooting is critical in IT support
 RDP relies on port 3389 for connectivity
+
 💼 Resume Bullet (STRONG VERSION)
 Configured and troubleshot remote access using RDP, including diagnosing connectivity failures caused by firewall rules and restoring system access.
